@@ -76,3 +76,7 @@ Sales & Marketing Strategy Planning
 Supply Chain Optimization
 
 Executive Decision-Making
+
+![Dashboard Screenshot]([https://raw.githubusercontent.com/<username>/<repo>/main/images/dashboard.png](https://github.com/Atharw10/Profit-and-loss-analysis-dashboard/blob/main/1.%20P&L%20Analysis%20Home%20Page%20Dashboard%20Screenshot.png?raw=true
+)
+
